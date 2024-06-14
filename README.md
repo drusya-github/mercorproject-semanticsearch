@@ -17,6 +17,9 @@ ___
 | 4.   | [ Scope for improvements](#scope-for-improvements)  |
 | 5.   | [Reference](#reference)               |
 
+
+Link to Youtube Explanation: https://youtu.be/OC9-QZ2aY-U
+
 ___
 ## Technologies Used
 
